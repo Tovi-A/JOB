@@ -1,0 +1,6 @@
+model_checkpoint_path: "en2fr.ckpt-75400"
+all_model_checkpoint_paths: "en2fr.ckpt-72384"
+all_model_checkpoint_paths: "en2fr.ckpt-73138"
+all_model_checkpoint_paths: "en2fr.ckpt-73892"
+all_model_checkpoint_paths: "en2fr.ckpt-74646"
+all_model_checkpoint_paths: "en2fr.ckpt-75400"
